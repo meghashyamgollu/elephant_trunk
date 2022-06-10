@@ -20,11 +20,12 @@
 - Java
 - Node JS
 - npm / yarn
+(Set environment variables for python 2.X if running multiple versions)
     
-#### Steps
+#### Steps to follow
 
 - Clone the repo
-- If working Windows platform patch the build.py file in scratch-blocks from [here](https://github.com/LLK/scratch-blocks/pull/2138/commits/9007da52532cd380df5d0ac1a560788ed4f962cd#)
+- On Windows platform patch the build.py file in scratch-blocks from [here](https://github.com/LLK/scratch-blocks/pull/2138/commits/9007da52532cd380df5d0ac1a560788ed4f962cd#)
 - `cd scratch-vm`
 - `npm install`
 - `npm link`
@@ -38,8 +39,9 @@
 Incase of any upstream dependency conflict use `--legacy-peer-deps` in previous two steps.
 - `npm start`
 App local address : http://localhost:8601
+- Add AWS text to speech extension 
 
 After every change to scratch-blocks run `npm run prepublish` in `../scratch-blocks`
 
-##### Add AWS text to speech extension 
+
 
