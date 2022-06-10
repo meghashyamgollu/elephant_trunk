@@ -1,10 +1,10 @@
-# Scratch project
+## Scratch project
 
-# Objective
+### Objective
 
 - To create custom operator blocks to compute Square and square root of a number.
 
-# Demo
+### Demo
 
 ![image](https://user-images.githubusercontent.com/59413872/173130760-e563f93e-f831-48c3-afdd-656f5247141c.png)
 
@@ -12,16 +12,16 @@
 
 - File  : https://drive.google.com/file/d/1tGDSo4xE8godlOS7I-JvpFAUNw7BOAtw/view?usp=sharing
 
-# Getting Started
+### Getting Started
 
-# Requirements
+#### Requirements
 
 - Python 2.X
 - Java
 - Node JS
 - npm / yarn
     
-# Steps
+#### Steps
 
 - Clone the repo
 - If working Windows platform patch the build.py file in scratch-blocks from [here](https://github.com/LLK/scratch-blocks/pull/2138/commits/9007da52532cd380df5d0ac1a560788ed4f962cd#)
@@ -41,5 +41,5 @@ App local address : http://localhost:8601
 
 After every change to scratch-blocks run `npm run prepublish` in `../scratch-blocks`
 
-### Add AWS text to speech extension 
+##### Add AWS text to speech extension 
 
