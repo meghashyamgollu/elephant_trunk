@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/59413872/173130760-e563f93e-f831-48c3-afdd-656f5247141c.png)
 
-- video : https://drive.google.com/file/d/1_xTl2-7bZPWYvXfi34r4yUbewRYbvP5N/view?usp=sharing
+- Video : https://drive.google.com/file/d/1_xTl2-7bZPWYvXfi34r4yUbewRYbvP5N/view?usp=sharing
 
 - File  : https://drive.google.com/file/d/1tGDSo4xE8godlOS7I-JvpFAUNw7BOAtw/view?usp=sharing
 
