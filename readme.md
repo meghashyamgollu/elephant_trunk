@@ -1,4 +1,4 @@
-## Scratch project
+# Scratch project
 
 ### Objective
 
